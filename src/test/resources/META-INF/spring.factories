@@ -1,0 +1,2 @@
+org.springframework.test.context.ContextCustomizerFactory = com.jeeajax.\
+    emploitemps.config.SqlTestContainersSpringContextCustomizerFactory
