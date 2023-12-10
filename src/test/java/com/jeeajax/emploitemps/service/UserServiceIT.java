@@ -1,6 +1,7 @@
 package com.jeeajax.emploitemps.service;
 
 import static org.assertj.core.api.Assertions.assertThat;
+import static org.mockito.Mockito.when;
 
 import com.jeeajax.emploitemps.IntegrationTest;
 import com.jeeajax.emploitemps.domain.PersistentToken;
